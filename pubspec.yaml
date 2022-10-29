@@ -38,10 +38,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   syncfusion_flutter_pdf: ^20.3.52
   text_to_speech: ^0.2.3
-  permission_handler: ^10.2.0
+  permission_handler: 9.2.0
 #  keyboard_visibility: ^0.5.6
 #  google_fonts: ^3.0.1
   flutter_tts: ^3.5.3
+  file_picker: 5.1.0
 #  speech_recognition: ^0.3.0
 
 dev_dependencies:
